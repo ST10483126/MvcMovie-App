@@ -1,1 +1,1 @@
-  My first Mvc Application in ASP.NET 10.
+  My first Mvc Application in ASP.NET Core
